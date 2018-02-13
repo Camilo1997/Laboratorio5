@@ -69,7 +69,7 @@ fallido, el premio se reduce en \$10.000.
 
 	A la implementación de esta clase, agregue un método llamado ‘reiniciar’, el cual sirva para volver a iniciar el juego (inicializar de nuevo el número a adivinar, y restaurar el premio a su valor original).
 
-1.  Cree una página XHTML, de nombre ‘adivina.xhtml’ (debe quedar en la ruta ‘Web Pages’).
+1.  Cree una página XHTML, de nombre ‘guess.xhtml’ (debe quedar en la ruta ‘Web Pages’).
 
 	![](img/media/image8.png)
 
