@@ -144,7 +144,7 @@ fallido, el premio se reduce en \$10.000.
 
     b.  mvn tomcat7:run
 
-	Si no hay errores, la aplicación debería quedar accesible en la URL: http://localhost:8080/faces/adivina.xhtml
+	Si no hay errores, la aplicación debería quedar accesible en la URL: http://localhost:8080/faces/guess.xhtml
 
 4.  Si todo funcionó correctamente, realice la siguiente prueba:
 
